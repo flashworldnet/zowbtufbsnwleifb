@@ -26095,13 +26095,6 @@
     <icon src="http://172.17.49.10/Images/WOI-Images/PeoTv_Images/dasimages/landscape/360x270/PeoCharanaTV_Aranya_1734410_ndtv.jpg" />
   </programme>
 
-  <programme start="20241104073900 +0000" stop="20241104082700 +0000" channel="50">
-    <title>Around The World With Manu Feildel</title>
-    <sub-title>Episode Name: India : India : Follow Manu Feildel's 30-day culinary voyage inspired by Jules Vern's famous novel.</sub-title>
-    <desc>India : Follow Manu Feildel's 30-day culinary voyage inspired by Jules Vern's famous novel.</desc>
-    <icon src="http://172.17.49.10/Images/WOI-Images/PeoTv_Images/dasimages/landscape/360x270/NGC_AroundTheWorldWithManuFeildel_1621249_ndtv.jpg" />
-  </programme>
-
   <programme start="20241104082700 +0000" stop="20241104091100 +0000" channel="50">
     <title>Gordon Ramsay: Uncharted</title>
     <sub-title>Episode Name: Cuba's Savoury Secrets : Cuba's Savoury Secrets : Gordon travels to Cuba to discover the country's largely unknown culinary traditions.</sub-title>
@@ -30022,13 +30015,6 @@
     <icon src="http://172.17.49.10/Images/WOI-Images/PeoTv_Images/dasimages/landscape/360x270/NICK_MotuPatlu_1650_ndtv.jpg" />
   </programme>
 
-  <programme start="20241104073900 +0000" stop="20241104090500 +0000" channel="61">
-    <title>Little Sorcerer (2021)</title>
-    <sub-title></sub-title>
-    <desc>A group of friends set out on a quest to find a magic stone to turn their mouse friend back into a prince.</desc>
-    <icon src="http://172.17.49.10/Images/WOI-Images/PeoTv_Images/dasimages/landscape/360x270/NIKKYTV_LittleSorcerer2021_1666563_ndtv.jpg" />
-  </programme>
-
   <programme start="20241104090500 +0000" stop="20241104102400 +0000" channel="61">
     <title>Magic Arch 3D (2020)</title>
     <sub-title></sub-title>
@@ -32722,13 +32708,6 @@
     <sub-title>Bheem and his friends embark on epic adventures in the mythical land of Dholakpur, facing challenges and upholding justice in a vibrant and enchanting world.</sub-title>
     <desc>Bheem and his friends embark on epic adventures in the mythical land of Dholakpur, facing challenges and upholding justice in a vibrant and enchanting world.</desc>
     <icon src="http://172.17.49.10/Images/WOI-Images/PeoTv_Images/dasimages/landscape/360x270/Pogo_ChhotaBheem_1671_ndtv.jpg" />
-  </programme>
-
-  <programme start="20241104073900 +0000" stop="20241104074500 +0000" channel="67">
-    <title>Bluey</title>
-    <sub-title>Follows the adventures of a blue heeler puppy, bluey, who lives with her mum, dad, and sister. her energy and lovable spirit gets her into all kinds of funny and unpredictable situations.</sub-title>
-    <desc>Follows the adventures of a blue heeler puppy, bluey, who lives with her mum, dad, and sister. her energy and lovable spirit gets her into all kinds of funny and unpredictable situations.</desc>
-    <icon src="http://172.17.49.10/Images/WOI-Images/PeoTv_Images/dasimages/landscape/360x270/DisneyJunior_Bluey_1170398_ndtv.jpg" />
   </programme>
 
   <programme start="20241104074500 +0000" stop="20241104075100 +0000" channel="67">
