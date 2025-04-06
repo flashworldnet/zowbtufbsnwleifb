@@ -24,17 +24,15 @@ http://10.206.0.103:65010/udp/224.11.4.10:5180
 #EXTINF:-1 tvg-id="11" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/11_new.png" group-title="Local Variety", Shakthi TV
 http://10.206.0.103:65010/udp/224.11.4.11:5180
 #EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/012_new.png" group-title="Local Variety", TV1
-http://10.206.0.103:65010/udp/224.11.2.12:5180
+http://10.206.0.103:65010/udp/224.11.4.12:5180
 #EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/13.png" group-title="Local Variety", TNL
 http://10.206.0.103:65010/udp/224.11.4.13:5180
 #EXTINF:-1 tvg-id="14" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/14_1.png" group-title="News / Business", Ada Derana 24
 http://10.206.0.103:65010/udp/224.11.2.14:5180
 #EXTINF:-1 tvg-id="15" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/15_2.png" group-title="Local Variety Music", Music Plus Television
 http://10.206.0.103:65010/udp/224.11.4.15:5180
-#EXTINF:-1 tvg-id="16" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/16.png" group-title="Local Variety", Supreme TV
-http://10.206.0.103:65010/udp/224.11.4.140:5180
 #EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/17.png" group-title="Local Variety", ART
-http://10.206.0.103:65010/udp/224.11.2.17:5180
+http://10.206.0.103:65010/udp/224.11.4.17:5180
 #EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/18.png" group-title="Local Variety", Three Vision
 http://10.206.0.103:65010/udp/224.11.4.18:5180
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/19.png" group-title="Local Variety", Hiru TV
@@ -44,37 +42,35 @@ http://10.206.0.103:65010/udp/224.11.4.165:5180
 #EXTINF:-1 tvg-id="21" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/021.png" group-title="Local Variety", Star Tamil
 http://10.206.0.103:65010/udp/224.11.2.8:5180
 #EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/22.png" group-title="Local Variety", Rangiri Sri Lanka
-http://10.206.0.103:65010/udp/224.11.2.22:5180
+http://10.206.0.103:65010/udp/224.11.4.22:5180
 #EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/23_1.png" group-title="News / Business", CNN
-http://10.206.0.103:65010/udp/224.11.2.23:5180
+http://10.206.0.103:65010/udp/224.11.4.23:5180
 #EXTINF:-1 tvg-id="24" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/24.png" group-title="News / Business", BBC News
 http://10.206.0.103:65010/udp/224.11.4.24:5180
 #EXTINF:-1 tvg-id="25" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/25_1.png" group-title="News / Business", Times Now
 http://10.206.0.103:65010/udp/224.11.4.162:5180
 #EXTINF:-1 tvg-id="26" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/26.png" group-title="News / Business", Aljazeera
-http://10.206.0.103:65010/udp/224.11.4.26:5180
+http://10.206.0.103:65010/udp/224.11.2.26:5180
 #EXTINF:-1 tvg-id="27" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/27.png" group-title="News / Business", France 24
 http://10.206.0.103:65010/udp/224.11.2.27:5180
 #EXTINF:-1 tvg-id="28" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/28_2.png" group-title="Movie", Star Movies
-http://10.206.0.103:65010/udp/224.11.2.28:5180
+http://10.206.0.103:65010/udp/224.11.4.28:5180
 #EXTINF:-1 tvg-id="29" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/29.png" group-title="Movie", Cinemachi Action
-http://10.206.0.103:65010/udp/224.11.2.29:5180
+http://10.206.0.103:65010/udp/224.11.4.29:5180
 #EXTINF:-1 tvg-id="30" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/30.png" group-title="Movie", Cinemachi Family
-http://10.206.0.103:65010/udp/224.11.4.30:5180
+http://10.206.0.103:65010/udp/224.11.2.30:5180
 #EXTINF:-1 tvg-id="31" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/31.png" group-title="Movie", Cinemachi Scream
-http://10.206.0.103:65010/udp/224.11.4.31:5180
+http://10.206.0.103:65010/udp/224.11.2.31:5180
 #EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/32.png" group-title="Movie", Cinemachi Xtra
-http://10.206.0.103:65010/udp/224.11.4.32:5180
+http://10.206.0.103:65010/udp/224.11.2.32:5180
 #EXTINF:-1 tvg-id="33" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/033.png" group-title="Movie", CinemaWorld
-http://10.206.0.103:65010/udp/224.11.2.33:5180
+http://10.206.0.103:65010/udp/224.11.4.33:5180
 #EXTINF:-1 tvg-id="34" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/034.png" group-title="Movie", Nflix
-http://10.206.0.103:65010/udp/224.11.2.34:5180
-#EXTINF:-1 tvg-id="35" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/36.png" group-title="Foreign Variety", Comedy Central
-http://10.206.0.103:65010/udp/224.11.2.35:5180
+http://10.206.0.103:65010/udp/224.11.4.34:5180
 #EXTINF:-1 tvg-id="37" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/037_new.png" group-title="Sports", Sony Sports Ten 5
-http://10.206.0.103:65010/udp/224.11.2.37:5180
+http://10.206.0.103:65010/udp/224.11.4.37:5180
 #EXTINF:-1 tvg-id="38" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/038_new.png" group-title="Sports", Sony Sports Ten 1
-http://10.206.0.103:65010/udp/224.11.2.38:5180
+http://10.206.0.103:65010/udp/224.11.4.38:5180
 #EXTINF:-1 tvg-id="39" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/39_new.png" group-title="Sports", Star Sports Select 1
 http://10.206.0.103:65010/udp/224.11.2.39:5180
 #EXTINF:-1 tvg-id="40" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/40_new.png" group-title="Sports", Star Sports 2
@@ -84,23 +80,21 @@ http://10.206.0.103:65010/udp/224.11.2.41:5180
 #EXTINF:-1 tvg-id="42" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/42_1.png" group-title="Sports", Eurosport
 http://10.206.0.103:65010/udp/224.11.2.42:5180
 #EXTINF:-1 tvg-id="44" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/44.png" group-title="Sports", Ten Cricket
-http://10.206.0.103:65010/udp/224.11.2.44:5180
+http://10.206.0.103:65010/udp/224.11.4.44:5180
 #EXTINF:-1 tvg-id="45" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/045_new.png" group-title="Sports", Sony Sports Ten 2
-http://10.206.0.103:65010/udp/224.11.2.45:5180
+http://10.206.0.103:65010/udp/224.11.4.45:5180
 #EXTINF:-1 tvg-id="46" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/046.png" group-title="Sports", Premier Sports
 http://10.206.0.103:65010/udp/224.11.4.46:5180
 #EXTINF:-1 tvg-id="47" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/47_new.png" group-title="Infotainment", Discovery Channel
-http://10.206.0.103:65010/udp/224.11.2.47:5180
+http://10.206.0.103:65010/udp/224.11.4.47:5180
 #EXTINF:-1 tvg-id="48" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/48.png" group-title="Infotainment", Animal Planet
-http://10.206.0.103:65010/udp/224.11.2.48:5180
+http://10.206.0.103:65010/udp/224.11.4.48:5180
 #EXTINF:-1 tvg-id="49" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/49_1.png" group-title="Travel / Living", TLC
-http://10.206.0.103:65010/udp/224.11.2.49:5180
+http://10.206.0.103:65010/udp/224.11.4.49:5180
 #EXTINF:-1 tvg-id="50" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/50.png" group-title="Infotainment", National Geographic Channel
-http://10.206.0.103:65010/udp/224.11.2.50:5180
-#EXTINF:-1 tvg-id="52" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/52.png" group-title="Infotainment", Fox Life
-http://10.206.0.103:65010/udp/224.11.2.52:5180
+http://10.206.0.103:65010/udp/224.11.4.50:5180
 #EXTINF:-1 tvg-id="53" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/53.png" group-title="Travel / Living", Travel Channel
-http://10.206.0.103:65010/udp/224.11.2.53:5180
+http://10.206.0.103:65010/udp/224.11.4.53:5180
 #EXTINF:-1 tvg-id="54" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/54.png" group-title="Infotainment", Discovery Turbo
 http://10.206.0.103:65010/udp/224.11.2.54:5180
 #EXTINF:-1 tvg-id="55" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/55.png" group-title="Infotainment", Discovery Science
@@ -114,31 +108,29 @@ http://10.206.0.103:65010/udp/224.11.2.58:5180
 #EXTINF:-1 tvg-id="59" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/59.png" group-title="Kids", Cinemachi Junior
 http://10.206.0.103:65010/udp/224.11.2.59:5180
 #EXTINF:-1 tvg-id="60" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/60.png" group-title="Kids", nick
-http://10.206.0.103:65010/udp/224.11.2.60:5180
+http://10.206.0.103:65010/udp/224.11.4.60:5180
 #EXTINF:-1 tvg-id="61" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/61_1.png" group-title="Kids", Nikky TV
-http://10.206.0.103:65010/udp/224.11.2.61:5180
+http://10.206.0.103:65010/udp/224.11.4.61:5180
 #EXTINF:-1 tvg-id="62" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/62_1.png" group-title="Kids", CBeebies
-http://10.206.0.103:65010/udp/224.11.2.62:5180
+http://10.206.0.103:65010/udp/224.11.4.62:5180
 #EXTINF:-1 tvg-id="63" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/63.png" group-title="Kids", Baby TV
-http://10.206.0.103:65010/udp/224.11.2.63:5180
+http://10.206.0.103:65010/udp/224.11.4.63:5180
 #EXTINF:-1 tvg-id="64" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/64.png" group-title="Kids", Discovery Kids
 http://10.206.0.103:65010/udp/224.11.2.64:5180
 #EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/65.png" group-title="Kids", Cartoon Network
-http://10.206.0.103:65010/udp/224.11.2.65:5180
+http://10.206.0.103:65010/udp/224.11.4.65:5180
 #EXTINF:-1 tvg-id="66" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/66.png" group-title="Kids", POGO
-http://10.206.0.103:65010/udp/224.11.2.66:5180
+http://10.206.0.103:65010/udp/224.11.4.66:5180
 #EXTINF:-1 tvg-id="67" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/67.png" group-title="Kids", Disney Junior
 http://10.206.0.103:65010/udp/224.11.2.167:5180
 #EXTINF:-1 tvg-id="69" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/069_1.png" group-title="Music", Stingray CMusic
 http://10.206.0.103:65010/udp/224.11.2.69:5180
 #EXTINF:-1 tvg-id="70" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/70.png" group-title="Music", MTV
-http://10.206.0.103:65010/udp/224.11.2.67:5180
-#EXTINF:-1 tvg-id="71" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/68_new.png" group-title="Music", VH1
-http://10.206.0.103:65010/udp/224.11.2.68:5180
+http://10.206.0.103:65010/udp/224.11.4.67:5180
 #EXTINF:-1 tvg-id="72" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/72.png" group-title="Tamil", Zee Tamil
-http://10.206.0.103:65010/udp/224.11.2.72:5180
+http://10.206.0.103:65010/udp/224.11.4.72:5180
 #EXTINF:-1 tvg-id="73" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/73.png" group-title="Foreign Variety", Star Vijay
-http://10.206.0.103:65010/udp/224.11.2.73:5180
+http://10.206.0.103:65010/udp/224.11.4.73:5180
 #EXTINF:-1 tvg-id="74" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/74_1.png" group-title="Tamil", Colors Tamil
 http://10.206.0.103:65010/udp/224.11.2.74:5180
 #EXTINF:-1 tvg-id="75" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/75.png" group-title="Foreign Variety", Star Gold
@@ -152,13 +144,11 @@ http://10.206.0.103:65010/udp/224.11.2.79:5180
 #EXTINF:-1 tvg-id="82" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/82_1.png" group-title="Foreign Variety", zoom
 http://10.206.0.103:65010/udp/224.11.2.82:5180
 #EXTINF:-1 tvg-id="83" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/83_01.png" group-title="Foreign Variety", ABC Australia
-http://10.206.0.103:65010/udp/224.11.4.83:5180
+http://10.206.0.103:65010/udp/224.11.2.83:5180
 #EXTINF:-1 tvg-id="84" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/84.png" group-title="Travel / Living", Luxe TV
 http://10.206.0.103:65010/udp/224.11.4.84:5180
 #EXTINF:-1 tvg-id="85" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/85.png" group-title="Foreign Variety", Zee Cafe
-http://10.206.0.103:65010/udp/224.11.2.85:5180
-#EXTINF:-1 tvg-id="86" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/86_1.png" group-title="Foreign Variety", Colors Infinity
-http://10.206.0.103:65010/udp/224.11.2.86:5180
+http://10.206.0.103:65010/udp/224.11.4.85:5180
 #EXTINF:-1 tvg-id="87" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/87.png" group-title="Foreign Variety", KBS World
 http://10.206.0.103:65010/udp/224.11.2.87:5180
 #EXTINF:-1 tvg-id="88" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/088_new.png" group-title="Foreign Variety", Star Plus
@@ -178,13 +168,13 @@ http://10.206.0.103:65010/udp/224.11.4.94:5180
 #EXTINF:-1 tvg-id="95" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/95_01.png" group-title="Religious", Siyasa TV
 http://10.206.0.103:65010/udp/224.11.2.95:5180
 #EXTINF:-1 tvg-id="96" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/96.png" group-title="Religious", The Buddhist
-http://10.206.0.103:65010/udp/224.11.2.96:5180
+http://10.206.0.103:65010/udp/224.11.4.96:5180
 #EXTINF:-1 tvg-id="97" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/97.png" group-title="Religious", God TV
 http://10.206.0.103:65010/udp/224.11.2.97:5180
 #EXTINF:-1 tvg-id="98" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/098.png" group-title="Religious", Ohm TV
 http://10.206.0.103:65010/udp/224.11.4.98:5180
 #EXTINF:-1 tvg-id="99" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/99.png" group-title="Religious", Shraddha TV
-http://10.206.0.103:65010/udp/224.11.2.99:5180
+http://10.206.0.103:65010/udp/224.11.4.99:5180
 #EXTINF:-1 tvg-id="100" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/100.png" group-title="Religious", MMC TV
 http://10.206.0.103:65010/udp/224.11.2.100:5180
 #EXTINF:-1 tvg-id="101" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/101.png" group-title="Foreign Variety", colors
@@ -229,26 +219,24 @@ http://10.206.0.103:65010/udp/224.11.2.16:5180
 http://10.206.0.103:65010/udp/224.11.4.120:5180
 #EXTINF:-1 tvg-id="121" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/121.png" group-title="Local Variety", Sanda TV
 http://10.206.0.103:65010/udp/224.11.4.121:5180
-#EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/122.png" group-title="Local Variety", Aksharaya TV
-http://10.206.0.103:65010/udp/224.11.4.122:5180
 #EXTINF:-1 tvg-id="123" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/123.png" group-title="Learning / Educational", Vapa TV
 http://10.206.0.103:65010/udp/224.11.4.123:5180
 #EXTINF:-1 tvg-id="124" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/124.png" group-title="Religious", Capital Tharisanam
 http://10.206.0.103:65010/udp/224.11.4.124:5180
 #EXTINF:-1 tvg-id="126" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/126.png" group-title="Religious", Damsathara TV
 http://10.206.0.103:65010/udp/224.11.2.126:5180
-#EXTINF:-1 tvg-id="130" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/130.png" group-title="Local Variety", Industry TV
-http://10.206.0.103:65010/udp/224.11.4.130:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/131.png" group-title="Local Variety", The Beauty Channel
 http://10.206.0.103:65010/udp/224.11.4.131:5180
-#EXTINF:-1 tvg-id="150" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/150.png" group-title="Sports", The Papare TV
-http://10.206.0.103:65010/udp/224.11.4.150:5180
-#EXTINF:-1 tvg-id="151" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/151.png" group-title="Sports", PEO Sports 2
+#EXTINF:-1 tvg-id="151" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/151.png" group-title="Sports", PEO Sports 1
 http://10.206.0.103:65010/udp/224.11.2.151:5180
+#EXTINF:-1 tvg-id="152" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/152.png" group-title="Sports", PEO Sports 2
+http://10.206.0.103:65010/udp/224.11.2.152:5180
 #EXTINF:-1 tvg-id="160" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/160.png" group-title="News / Business", Bloomberg
 http://10.206.0.103:65010/udp/224.11.2.160:5180
 #EXTINF:-1 tvg-id="161" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/161_1.png" group-title="News / Business", NHK World Japan
 http://10.206.0.103:65010/udp/224.11.2.161:5180
+#EXTINF:-1 tvg-id="162" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/162.png" group-title="News / Business", RT
+http://10.206.0.103:65010/udp/224.11.4.25:5180
 #EXTINF:-1 tvg-id="163" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/163.png" group-title="News / Business", France 24 (French)
 http://10.206.0.103:65010/udp/224.11.2.163:5180
 #EXTINF:-1 tvg-id="180" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/180.png" group-title="Foreign Variety", CCTV 4
@@ -257,6 +245,8 @@ http://10.206.0.103:65010/udp/224.11.4.180:5180
 http://10.206.0.103:65010/udp/224.11.4.181:5180
 #EXTINF:-1 tvg-id="190" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/190.png" group-title="Learning / Educational", English Club TV
 http://10.206.0.103:65010/udp/224.11.2.190:5180
+#EXTINF:-1 tvg-id="200" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/200.png" group-title="Local Variety", Channel 200
+http://10.206.0.103:65010/udp/224.11.2.168:5180
 #EXTINF:-1 tvg-id="204" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/204.png" group-title="Learning / Educational", Kids TV
 http://10.206.0.103:65010/udp/224.11.2.204:5180
 #EXTINF:-1 tvg-id="205" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/205.png" group-title="Learning / Educational", Videsa 3-5
@@ -341,8 +331,6 @@ http://10.206.0.103:65010/udp/224.11.2.132:5180
 http://10.206.0.103:65010/udp/224.11.2.133:5180
 #EXTINF:-1 tvg-id="571" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/571.png" group-title="Other", Sporting Star 3
 http://10.206.0.103:65010/udp/224.11.2.174:5180
-#EXTINF:-1 tvg-id="241" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/241.png" group-title="Sports", PEO Sports
-http://10.206.0.103:65010/udp/224.11.4.241:5180
 #EXTINF:-1 tvg-id="572" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/571.png" group-title="Other", Leisure Sports 3
 http://10.206.0.103:65010/udp/224.11.2.253:5180
 #EXTINF:-1 tvg-id="603" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/603.png" group-title="Other", Peoples Leasing
