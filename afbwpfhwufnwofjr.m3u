@@ -319,6 +319,12 @@ http://10.206.0.103:65010/udp/224.11.4.237:5180
 http://10.206.0.103:65010/udp/224.11.4.238:5180
 #EXTINF:-1 tvg-id="340" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/340.png" group-title="Movie", HBO HD
 http://10.206.0.103:65010/udp/224.11.2.240:5180
+#EXTINF:-1 tvg-id="341" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/341.png" group-title="Movie", HBO Signature HD
+http://10.206.0.103:65010/udp/224.11.2.241:5180
+#EXTINF:-1 tvg-id="342" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/342.png" group-title="Movie", HBO Hits HD
+http://10.206.0.103:65010/udp/224.11.2.242:5180
+#EXTINF:-1 tvg-id="343" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/343.png" group-title="Movie", HBO Family HD
+http://10.206.0.103:65010/udp/224.11.2.243:5180
 #EXTINF:-1 tvg-id="351" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/351.png" group-title="Infotainment", Discovery HD
 http://10.206.0.103:65010/udp/224.11.2.222:5180
 #EXTINF:-1 tvg-id="352" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/352.png" group-title="Infotainment", Animal Planet HD
