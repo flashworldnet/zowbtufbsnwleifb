@@ -293,6 +293,10 @@ http://10.206.0.103:65010/udp/224.11.2.142:5180
 http://10.206.0.103:65010/udp/224.11.2.143:5180
 #EXTINF:-1 tvg-id="314" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/314.png" group-title="Sports", Star Sports Select 2 HD
 http://10.206.0.103:65010/udp/224.11.2.144:5180
+#EXTINF:-1 tvg-id="315" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/315.png" group-title="Sports", Star Sports 1 HD
+http://10.206.0.103:65010/udp/224.11.4.145:5180
+#EXTINF:-1 tvg-id="316" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/316.png" group-title="Sports", Star Sports 2 HD
+http://10.206.0.103:65010/udp/224.11.4.146:5180
 #EXTINF:-1 tvg-id="317" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/317.png" group-title="Sports", Ten Cricket HD
 http://10.206.0.103:65010/udp/224.11.2.217:5180
 #EXTINF:-1 tvg-id="318" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/318.png" group-title="Sports", Sony Sports Ten 5 HD
