@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/000.png" group-title="Local Variety", SLT Group Watch
+#EXTINF:-1 tvg-id="10000" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/000.png" group-title="Local Variety", SLT Group Watch
 http://10.206.1.158:65010/udp/224.11.4.250:5180
 #EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/1.png" group-title="Local Variety", Rupavahini
 http://10.206.1.158:65010/udp/224.11.4.1:5180
-#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/2.png" group-title="Local Variety",Channel Eye
+#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/2.png" group-title="Local Variety", Nethra TV
 http://10.206.1.158:65010/udp/224.11.4.2:5180
 #EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/03.png" group-title="Local Variety", ITN
 http://10.206.1.158:65010/udp/224.11.4.3:5180
@@ -25,7 +25,7 @@ http://10.206.1.158:65010/udp/224.11.4.10:5180
 http://10.206.1.158:65010/udp/224.11.4.11:5180
 #EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/012_new.png" group-title="Local Variety", TV1
 http://10.206.1.158:65010/udp/224.11.4.12:5180
-#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/13.png" group-title="Local Variety", TNL
+#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/13.png" group-title="Local Variety", TV Supreme
 http://10.206.1.158:65010/udp/224.11.4.13:5180
 #EXTINF:-1 tvg-id="14" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/14_1.png" group-title="News / Business", Ada Derana 24
 http://10.206.1.158:65010/udp/224.11.2.14:5180
@@ -33,7 +33,7 @@ http://10.206.1.158:65010/udp/224.11.2.14:5180
 http://10.206.1.158:65010/udp/224.11.4.15:5180
 #EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/17.png" group-title="Local Variety", ART
 http://10.206.1.158:65010/udp/224.11.4.17:5180
-#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/18.png" group-title="Local Variety", Three Vision
+#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/18.png" group-title="Religious", Dasatha TV
 http://10.206.1.158:65010/udp/224.11.4.18:5180
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/19.png" group-title="Local Variety", Hiru TV
 http://10.206.1.158:65010/udp/224.11.4.19:5180
@@ -213,24 +213,38 @@ http://10.206.1.158:65010/udp/224.11.4.116:5180
 http://10.206.1.158:65010/udp/224.11.2.117:5180
 #EXTINF:-1 tvg-id="118" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/118.png" group-title="Religious", Thinetha TV
 http://10.206.1.158:65010/udp/224.11.4.118:5180
-#EXTINF:-1 tvg-id="119" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/119.png" group-title="Local Variety", Nethra TV
+#EXTINF:-1 tvg-id="119" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/119.png" group-title="Local Variety", Channel Eye
 http://10.206.1.158:65010/udp/224.11.2.16:5180
 #EXTINF:-1 tvg-id="120" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/120.png" group-title="Local Variety", Event TV Plus
 http://10.206.1.158:65010/udp/224.11.4.120:5180
-#EXTINF:-1 tvg-id="121" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/121.png" group-title="Local Variety", Sanda TV
-http://10.206.1.158:65010/udp/224.11.4.121:5180
 #EXTINF:-1 tvg-id="123" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/123.png" group-title="Learning / Educational", Vapa TV
 http://10.206.1.158:65010/udp/224.11.4.123:5180
 #EXTINF:-1 tvg-id="124" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/124.png" group-title="Religious", Capital Tharisanam
 http://10.206.1.158:65010/udp/224.11.4.124:5180
+#EXTINF:-1 tvg-id="125" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/125.png" group-title="Religious", ITV
+http://10.206.1.158:65010/udp/224.11.4.125:5180
 #EXTINF:-1 tvg-id="126" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/126.png" group-title="Religious", Damsathara TV
 http://10.206.1.158:65010/udp/224.11.2.126:5180
+#EXTINF:-1 tvg-id="127" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/127.png" group-title="Religious", Meditation TV
+http://10.206.1.158:65010/udp/224.11.4.127:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/131.png" group-title="Local Variety", The Beauty Channel
 http://10.206.1.158:65010/udp/224.11.4.131:5180
-#EXTINF:-1 tvg-id="151" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/151.png" group-title="Sports", PEO Sports 1
+#EXTINF:-1 tvg-id="133" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/133.png" group-title="Local Variety", MMC TV
+http://10.206.1.158:65010/udp/224.11.4.133:5180
+#EXTINF:-1 tvg-id="140" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/140.png" group-title="Movie", HBO HD
+http://10.206.1.158:65010/udp/224.11.2.211:5180
+#EXTINF:-1 tvg-id="141" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/141.png" group-title="Movie", HBO Signature HD
+http://10.206.1.158:65010/udp/224.11.2.212:5180
+#EXTINF:-1 tvg-id="142" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/142.png" group-title="Movie", HBO Hits HD
+http://10.206.1.158:65010/udp/224.11.2.213:5180
+#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/143.png" group-title="Movie", HBO Family HD
+http://10.206.1.158:65010/udp/224.11.2.214:5180
+#EXTINF:-1 tvg-id="150" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/150.png" group-title="Sports", PEO Sports 1
 http://10.206.1.158:65010/udp/224.11.2.151:5180
-#EXTINF:-1 tvg-id="152" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/152.png" group-title="Sports", PEO Sports 2
+#EXTINF:-1 tvg-id="151" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/151.png" group-title="Sports", PEO Sports 2
 http://10.206.1.158:65010/udp/224.11.2.152:5180
+#EXTINF:-1 tvg-id="152" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/152.png" group-title="Sports", PEO Sports 2
+http://10.206.1.158:65010/udp/224.11.2.153:5180
 #EXTINF:-1 tvg-id="160" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/160.png" group-title="News / Business", Bloomberg
 http://10.206.1.158:65010/udp/224.11.2.160:5180
 #EXTINF:-1 tvg-id="161" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/161_1.png" group-title="News / Business", NHK World Japan
@@ -295,6 +309,12 @@ http://10.206.1.158:65010/udp/224.11.2.218:5180
 http://10.206.1.158:65010/udp/224.11.2.219:5180
 #EXTINF:-1 tvg-id="320" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/320.png" group-title="Sports", Sony Sports Ten 1 HD
 http://10.206.1.158:65010/udp/224.11.2.220:5180
+#EXTINF:-1 tvg-id="323" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/323.png" group-title="Sports", PEO Sports HD 1
+http://10.206.1.158:65010/udp/224.11.2.223:5180
+#EXTINF:-1 tvg-id="324" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/324.png" group-title="Sports", PEO Sports HD 2
+http://10.206.1.158:65010/udp/224.11.2.224:5180
+#EXTINF:-1 tvg-id="325" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/325.png" group-title="Sports", PEO Sports HD 2
+http://10.206.1.158:65010/udp/224.11.2.225:5180
 #EXTINF:-1 tvg-id="330" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/330.png" group-title="Kids", Lolly Kids HD
 http://10.206.1.158:65010/udp/224.11.4.230:5180
 #EXTINF:-1 tvg-id="331" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/331.png" group-title="Movie", Cinemachi Action HD
@@ -305,8 +325,8 @@ http://10.206.1.158:65010/udp/224.11.4.232:5180
 http://10.206.1.158:65010/udp/224.11.4.233:5180
 #EXTINF:-1 tvg-id="334" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/334.png" group-title="Movie", Cinemachi Xtra HD
 http://10.206.1.158:65010/udp/224.11.4.234:5180
-#EXTINF:-1 tvg-id="335" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/335.png" group-title="Foreign Variety", Colors Infinity HD
-http://10.206.1.158:65010/udp/224.11.2.147:5180
+#EXTINF:-1 tvg-id="336" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/336.png" group-title="Movie", Star Movies HD
+http://10.206.1.158:65010/udp/224.11.2.236:5180
 #EXTINF:-1 tvg-id="337" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/337.png" group-title="Movie", Star Movies Select HD
 http://10.206.1.158:65010/udp/224.11.4.237:5180
 #EXTINF:-1 tvg-id="338" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/338.png" group-title="Foreign Variety", Arirang HD
