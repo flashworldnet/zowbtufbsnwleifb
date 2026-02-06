@@ -7,7 +7,7 @@ http://10.206.4.109:65010/udp/224.11.4.1:5180
 http://10.206.4.109:65010/udp/224.11.4.2:5180
 #EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/03.png" group-title="Local Variety", ITN
 http://10.206.4.109:65010/udp/224.11.4.3:5180
-#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/4_1.png" group-title="Local Variety", Derana
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/4_1.png" group-title="Local Variety", TV Derana
 http://10.206.4.109:65010/udp/224.11.4.4:5180
 #EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/flashworldnet/zowbtufbsnwleifb/main/logos/traxis/05.png" group-title="Local Variety", Charana TV
 http://10.206.4.109:65010/udp/224.11.4.5:5180
